@@ -1,0 +1,4 @@
+分布式开源版控工具
+本地传输，共享传输，git传输，http/s传输，ssh传输
+安装，初始化库，生成project.git，放置到正确位置
+clone/remote，fetch，修改，add，commit，merge，rebase，push，pull request
